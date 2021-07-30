@@ -1,0 +1,3 @@
+[submodule "all-lap-rust"]
+	path = all-lap-rust
+	url = git@github.com:studentofkyoto/all-lap-rust.git
