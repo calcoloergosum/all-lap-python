@@ -9,7 +9,7 @@ def main():
     tests_require = install_requires
 
     setup(
-        name="kbest-lap",
+        name="all-lap",
         use_scm_version={
             'write_to': 'all_lap/version.py',
             'write_to_template': '__version__ = "{version}"\n'
